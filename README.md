@@ -132,7 +132,8 @@ Four pages plus a hidden drillthrough page.
 2. **Inventory** — value by site and temperature band, stockout trend, days of cover by ABC class, SKU matrix with drillthrough
 
 ![Inventory](screenshots/02-inventory.png)
-![Product Dillthrough](screenshots/05-product-dillthrough.png)
+
+![Product Drillthrough](screenshots/05-product_dillthrough.png)
 3. **Orders \& Delivery** — OTIF heatmap by site and month, delivery-time distribution, late-lines detail, decomposition tree
 
 ![Order & Delivery](screenshots/03-orders-delivery.png)
