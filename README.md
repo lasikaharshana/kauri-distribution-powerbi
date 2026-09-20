@@ -87,8 +87,8 @@ Around 35 measures. The ones worth reading:
 ```dax
 On Hand Qty =
 CALCULATE(
-    SUM(FactInventory\\\\\\\[OnHandQty]),
-    LASTNONBLANK(DimDate\\\\\\\[Date], CALCULATE(SUM(FactInventory\\\\\\\[OnHandQty])))
+    SUM(FactInventory[OnHandQty]),
+    LASTNONBLANK(DimDate[Date], CALCULATE(SUM(FactInventory[OnHandQty])))
 )
 ```
 
@@ -99,9 +99,9 @@ CALCULATE(
 ```dax
 Target Revenue =
 CALCULATE(
-    SUM(FactTargets\\\\\\\[TargetRevenue]),
+    SUM(FactTargets[TargetRevenue]),
     REMOVEFILTERS(DimDate),
-    TREATAS(VALUES(DimDate\\\\\\\[YearMonth]), FactTargets\\\\\\\[YearMonth])
+    TREATAS(VALUES(DimDate[YearMonth]), FactTargets[YearMonth])
 )
 ```
 
@@ -114,8 +114,8 @@ DIVIDE(
         COUNTROWS(FactOrders),
         FILTER(
             FactOrders,
-            FactOrders\\\\\\\[ShipDate] <= FactOrders\\\\\\\[PromisedDate]
-            \\\\\\\&\\\\\\\& FactOrders\\\\\\\[QtyShipped] >= FactOrders\\\\\\\[QtyOrdered]
+            FactOrders[ShipDate] <= FactOrders[PromisedDate]
+            \\\\\\\& FactOrders[QtyShipped] >= FactOrders[QtyOrdered]
         )
     ),
     COUNTROWS(FactOrders)
@@ -180,7 +180,7 @@ The theme is included as `theme/KauriColdChain.json`.
 ## Running it
 
 1. Clone the repo
-2. Open `pbix/KauriDistribution\\\\\\\_Sales.pbix` in Power BI Desktop
+2. Open `pbix/KauriDistribution_Sales.pbix` in Power BI Desktop
 3. Transform data → Data source settings → repoint the queries to your local `data/` folder
 4. Close \& Apply
 
