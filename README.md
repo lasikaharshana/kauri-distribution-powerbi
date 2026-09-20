@@ -115,7 +115,7 @@ DIVIDE(
         FILTER(
             FactOrders,
             FactOrders[ShipDate] <= FactOrders[PromisedDate]
-            \\\\\\\& FactOrders[QtyShipped] >= FactOrders[QtyOrdered]
+            & FactOrders[QtyShipped] >= FactOrders[QtyOrdered]
         )
     ),
     COUNTROWS(FactOrders)
