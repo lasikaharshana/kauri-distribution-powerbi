@@ -131,14 +131,14 @@ Four pages plus a hidden drillthrough page.
 ![Executive Overview](screenshots/01-executive-overview.png)
 2. **Inventory** — value by site and temperature band, stockout trend, days of cover by ABC class, SKU matrix with drillthrough
 
-![Executive Overview](screenshots/02-inventory.png)
-![Executive Overview](screenshots/05-product-drillthrough.png)
+![Inventory](screenshots/02-inventory.png)
+![Product Dillthrough](screenshots/05-product-drillthrough.png)
 3. **Orders \& Delivery** — OTIF heatmap by site and month, delivery-time distribution, late-lines detail, decomposition tree
 
-![Executive Overview](screenshots/03-orders-delivery.png)
+![Order & Delivery](screenshots/03-orders-delivery.png)
 4. **Supplier \& Product** — scorecard with rule-based conditional formatting, key influencers, lead-time variance
 
-![Executive Overview](screenshots/04-supplier-product.png)
+![Supplier & Products](screenshots/04-supplier-product.png)
 Features used: drillthrough, bookmarks with button navigation, report-page tooltips, a what-if parameter, synced slicers, three types of conditional formatting, alt text on every visual, defined tab order, and mobile layouts.
 
 ### Deployment
