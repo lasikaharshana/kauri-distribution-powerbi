@@ -1,0 +1,5 @@
+WarehouseID,WarehouseName,Region,Island,CapacityPallets
+WH-01,Tauranga DC,Bay of Plenty,North Island,12000
+WH-02,Auckland DC,Auckland,North Island,22000
+WH-03,Christchurch DC,Canterbury,South Island,15000
+WH-04,Hamilton XD,Waikato,North Island,6000

@@ -1,0 +1,26 @@
+SKU,ProductName,Category,ABCClass,PrimarySupplierID,StandardCost,ListPrice
+SKU-1001,Product 01,Frozen,A,SUP-02,37.07,59.63
+SKU-1002,Product 02,Ambient,B,SUP-03,30.96,54.08
+SKU-1003,Product 03,Packaging,A,SUP-04,35.61,52.5
+SKU-1004,Product 04  ,Chilled,A,SUP-05,27.38,44.52
+SKU-1005,Product 05,Frozen,C,SUP-06,39.0,77.98
+SKU-1006,Product 06,Ambient,A,SUP-01,31.66,54.97
+SKU-1007,Product 07,Packaging,C,SUP-02,42.35,66.6
+SKU-1008,Product 08,Chilled,C,SUP-03,7.08,12.26
+SKU-1009,Product 09,Frozen,A,SUP-04,22.97,32.15
+SKU-1010,Product 10,Ambient,B,SUP-05,$38.58,75.49
+SKU-1011,Product 11,Packaging,A,SUP-06,20.2,39.0
+SKU-1012,Product 12,Chilled,A,SUP-01,36.57,54.11
+SKU-1013,Product 13,Frozen,C,SUP-02,44.71,75.26
+SKU-1014,Product 14,Ambient,B,SUP-03,54.29,100.88
+SKU-1015,Product 15,Packaging,B,SUP-04,16.57,27.45
+SKU-1016,Product 16,Chilled,B,SUP-05,11.02,19.18
+SKU-1017,Product 17,Frozen,C,SUP-06,27.42,44.62
+SKU-1018,Product 18,Ambient,A,SUP-01,40.53,66.93
+SKU-1019,Product 19,Packaging,B,SUP-02,49.85,68.25
+SKU-1020,Product 20,Chilled,B,SUP-03,40.14,72.1
+SKU-1021,Product 21,Frozen,C,SUP-04,35.22,50.68
+SKU-1022,Product 22,Ambient,A,SUP-05,6.89,11.23
+SKU-1023,Product 23,Packaging,B,SUP-06,13.04,19.51
+SKU-1024,Product 24,Chilled,B,SUP-01,32.48,68.06
+SKU-1004,Product 04,Ambient,B,SUP-06,21.40,38.90

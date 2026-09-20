@@ -1,0 +1,61 @@
+CustomerID,CustomerName,Channel,Region,Tier
+CUST-101,Customer 01,Online,Canterbury,Silver
+CUST-102,Customer 02,Retail,Otago,Silver
+CUST-103,Customer 03,Online,Wellington,Silver
+CUST-104,Customer 04,Wholesale,Auckland,Bronze
+CUST-105,Customer 05,Retail,Waikato,Silver
+CUST-106,Customer 06,Online,,Gold
+CUST-107,Customer 07,Retail,Waikato,Gold
+CUST-108,Customer 08,Retail,Auckland,Silver
+CUST-109,Customer 09,Wholesale,Wellington,Silver
+CUST-110,Customer 10,Wholesale,Canterbury,Silver
+CUST-111,Customer 11,Wholesale,Wellington,Bronze
+CUST-112,Customer 12,Wholesale,Canterbury,Silver
+CUST-113,Customer 13,Online,Otago,Bronze
+CUST-114,Customer 14,Retail,Waikato,Silver
+CUST-115,Customer 15,Wholesale,Bay of Plenty,Silver
+CUST-116,Customer 16,Online,Waikato,Gold
+CUST-117,Customer 17,Wholesale,Otago,Bronze
+CUST-118,Customer 18,RETAIL,Otago,Bronze
+CUST-119,Customer 19,Retail,Auckland,Gold
+CUST-120,Customer 20,Online,Bay of Plenty,Gold
+CUST-121,Customer 21,Online,Otago,Silver
+CUST-122,Customer 22,Wholesale,Canterbury,Bronze
+CUST-123,Customer 23,Wholesale,Canterbury,Gold
+CUST-124,Customer 24,Online,Bay of Plenty,Bronze
+CUST-125,Customer 25,Online,Waikato,Silver
+CUST-126,Customer 26,Retail,Bay of Plenty,Bronze
+CUST-127,Customer 27,Wholesale,Bay of Plenty,Silver
+CUST-128,Customer 28,Online,Bay of Plenty,Silver
+CUST-129, Customer 29,Retail,Waikato,Gold
+CUST-130,Customer 30,Retail,Otago,Gold
+CUST-131,Customer 31,Retail,Canterbury,Gold
+CUST-132,Customer 32,Retail,Auckland,Gold
+CUST-133,Customer 33,Retail,Wellington,Gold
+CUST-134,Customer 34,Retail,Canterbury,Bronze
+CUST-135,Customer 35,Wholesale,Waikato,Silver
+CUST-136,Customer 36,Wholesale,Bay of Plenty,Gold
+CUST-137,Customer 37,Retail,Bay of Plenty,Gold
+CUST-138,Customer 38,Wholesale,Wellington,Silver
+CUST-139,Customer 39,Wholesale,Wellington,Gold
+CUST-140,Customer 40,Wholesale,Otago,Gold
+CUST-141,Customer 41,Wholesale,Waikato,Bronze
+CUST-142,Customer 42,Retail,Otago,Gold
+CUST-143,Customer 43,Retail,Waikato,Gold
+CUST-144,Customer 44,Wholesale,Auckland,Bronze
+CUST-145,Customer 45,Retail,Waikato,Bronze
+CUST-146,Customer 46,Wholesale,Wellington,Gold
+CUST-147,Customer 47,Wholesale,Auckland,Silver
+CUST-148,Customer 48,Retail,Waikato,Bronze
+CUST-149,Customer 49,Wholesale,Auckland,Gold
+CUST-150,Customer 50,Online,Auckland,Bronze
+CUST-151,Customer 51,Wholesale,Auckland,Gold
+CUST-152,Customer 52,Wholesale,Canterbury,Silver
+CUST-153,Customer 53,Wholesale,Waikato,Bronze
+CUST-154,Customer 54,Wholesale,Wellington,Gold
+CUST-155,Customer 55,Online,Waikato,Silver
+CUST-156,Customer 56,Online,Waikato,Silver
+CUST-157,Customer 57,Online,Wellington,Gold
+CUST-158,Customer 58,Online,Auckland,Gold
+CUST-159,Customer 59,Retail,Canterbury,Bronze
+CUST-160,Customer 60,Retail,Auckland,Silver

@@ -1,0 +1,22 @@
+# Power BI temp and cache files
+*.pbix.tmp
+*.pbip.tmp
+.pbi/
+*~$*
+
+# Power BI local settings that shouldn't travel
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# OS noise
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Office lock files
+~$*.xlsx
+~$*.docx
+
+# Local scratch
+scratch/
+*.bak
